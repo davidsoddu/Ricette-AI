@@ -1,0 +1,7 @@
+{
+  "name": "Generatore di Ricette AI",
+  "description": "Un'applicazione web che genera ricette basandosi sugli ingredienti forniti tramite testo o immagine, utilizzando l'API di Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
